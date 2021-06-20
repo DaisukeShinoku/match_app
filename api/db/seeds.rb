@@ -82,11 +82,11 @@ users = [
   {
     id: 9,
     email: "user09@test.com",
-    name: "キャバ子",
+    name: "ギャル子",
     image: open("./db/fixtures/users/09.jpeg"),
     gender: 1,
     birthday: "1997-11-11",
-    profile: "キャバ子です。どうぞよろしくお願いします。",
+    profile: "ギャル子です。どうぞよろしくお願いします。",
     prefecture: 14,
   },
   {
